@@ -7,7 +7,6 @@
 ## 1. Adicionando # antes da frase você faz um comentário simples - mas em apenas uma linha.
 
 > <code># Meu primeiro comentário em Python!</code>
-> <code># Outra linha com comentário...</code>
 
 ## 2. Adicionando """ no início e """ no final do texto, você pode escrever um comentário longo.
 
