@@ -15,10 +15,10 @@ Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo
 > At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
 
 ### 1.1. ALBERTINO, O. L.
-> Link para o [Currículo Lattes de Orlando](http://lattes.cnpq.br/).
+> Link para o [Currículo Lattes de Orlando](http://lattes.cnpq.br/1807713896369299).
 
 ### 1.2. MALACARNE, R.
-> Link para o [Currículo Lattes de Robson](http://lattes.cnpq.br/).
+> Link para o [Currículo Lattes de Robson](http://lattes.cnpq.br/1165244321236233).
 
 ### 1.3. OLIVEIRA, L. L. de
 > Link para o [Currículo Lattes de Leonardo](http://lattes.cnpq.br/).
