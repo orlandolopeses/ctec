@@ -4,7 +4,7 @@
 
 > Lorem ipsum similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
 
-## 1. Os Tipos de Dados possíveis em Python (Data Types):
+## 1. Os Tipos de Dados possíveis em Python:
 
 #### 1.1. Numéricos (Numeric)
 
