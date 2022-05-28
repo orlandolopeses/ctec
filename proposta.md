@@ -12,4 +12,4 @@ Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo
 
 ## 2. Bibliografia
 
-> Link aqui.
+> Acesse a página de [referências bibliográficas](https://github.com/fppissarra/ctec/blob/main/biblio.md).
