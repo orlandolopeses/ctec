@@ -10,11 +10,11 @@
 
 > Lorem ipsum similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.
 
-###### 1.1.1. Inteiro (Integer)
-> <code>int</code>
+###### 1.1.1. Inteiro (Integer) <code>int</code>
+> Exemplo aqui.
 
-###### 1.1.2. Número Complexo (Complex Number)
-> <code>?</code>
+###### 1.1.2. Número Complexo (Complex Number) <code>int</code>
+> Exemplo aqui.
 
 ###### 1.1.3. Ponto Flutuante (Float)
 > <code>?</code>
