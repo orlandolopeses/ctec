@@ -20,7 +20,7 @@ Este mini-projeto faz parte de uma entrega do Programa ES+CRIATIVO em parceria c
 > Técnica em Informática, aluna extensionista e finalista do curso de Letras/Língua Portuguesa (Ifes). Link para o [Currículo Lattes de Flávia](http://lattes.cnpq.br/7945109731847519).
 
 ### 3.2. ALBERTINO, O. L.
-> Professor Doutor no Departamento de Línguas e Letras (Ufes). Link para o [Currículo Lattes de Orlando](http://lattes.cnpq.br/1807713896369299).
+> Professor Doutor em Literatura Comparada no Departamento de Línguas e Letras (Ufes). Link para o [Currículo Lattes de Orlando](http://lattes.cnpq.br/1807713896369299).
 
 ## 4. Bibliografia
 
