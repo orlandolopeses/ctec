@@ -8,7 +8,7 @@ Por meio da Pró-Reitoria de Extensão do Instituto Federal do Espírito Santo (
 > O clube tem por objetivo articular alunos capixabas de Humanidades que tenham interesse no mundo da programação. Para tal, será desenvolvido um mini-projeto para que estes entendam o funcionamento lógico-matemático de um Tradutor Automático.
 
 ### 1.2. Específicos
-> Visando entender o funcionamento de tradutores automáticos, o grupo de estudos do clube terá como atividades - durante dois meses - os seguintes temas: (I) estudo de introdução à lógica de programação, (II) o aprendizado da sintaxe da linguagem de programação Python, (III) o conceito de programação orientada a objetos - POO - e (IV) o desenvolvimento de um código que permita o(a) usuário(a) traduzir o texto que preferir.
+> Visando entender o funcionamento de tradutores automáticos, o grupo de estudos do clube terá como atividades - durante dois meses - os seguintes temas: (I) estudo de introdução à lógica de programação, (II) o aprendizado da sintaxe da linguagem de programação Python, (III) o conceito de programação orientada a objetos - POO - e (IV) o desenvolvimento de um código que permita o(a) usuário(a) traduzir o texto que preferir. Acesse aqui o [Cronograma](https://github.com/fppissarra/ctec/blob/main/0_cronograma.md).
 
 ## 2. Tecnologias utilizadas
 <code>Python 3.7</code> <code>translate 3.6.1</code> <code>Google Colab</code>
