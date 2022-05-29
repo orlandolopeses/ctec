@@ -18,3 +18,5 @@ O Clube terá 12h de atividades presenciais¹ programadas e contará com certifi
 |  01 ago 2022 |  1h30  |  Entrega do mini-projeto e avaliação por parte da Organização do Clube |
 
 ###### (¹) No Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Ifes - localizado na Av. Vitória, 1729 - Jucutuquara, Vitória - ES, 29040-780. (²) A inscrição deverá ser feita por meio de um formulário eletrônico que se encontrará na [página do Instagram do ReLer&Fazer](https://www.instagram.com/relerefazeres), disponível até a data limite de inscrição estipulada pela Organização do Clube; ao se inscrever por meio do formulário, você precisa estar ciente e concordar com seus termos para que esteja apto(a) a participar do grupo. (³) As vagas serão limitadas a 10 pessoas por sessão, sendo que estudantes de Letras têm prioridade. A lista de pré-requisitos para participar do grupo consta no formulário.
+
+Voltar para a [página principal](https://github.com/fppissarra/ctec).
