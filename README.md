@@ -17,10 +17,10 @@ Por meio da Pró-Reitoria de Extensão do Instituto Federal do Espírito Santo (
 Este mini-projeto faz parte de uma entrega do Programa ES+CRIATIVO em parceria com a Secretaria de Estado da Cultura (Secult) do Espírito Santo. São corresponsáveis:
 
 ### 3.1. PISSARRA, F. P.
-> Aluna extensionista e finalista do curso de Letras/Língua Portuguesa (Ifes). Link para o [Currículo Lattes de Flávia](http://lattes.cnpq.br/7945109731847519).
+> Técnica em Informática, aluna extensionista e finalista do curso de Letras/Língua Portuguesa (Ifes). Link para o [Currículo Lattes de Flávia](http://lattes.cnpq.br/7945109731847519).
 
 ### 3.2. ALBERTINO, O. L.
-> Professor no Departamento de Línguas e Letras (Ufes). Link para o [Currículo Lattes de Orlando](http://lattes.cnpq.br/1807713896369299).
+> Professor Doutor no Departamento de Línguas e Letras (Ufes). Link para o [Currículo Lattes de Orlando](http://lattes.cnpq.br/1807713896369299).
 
 ## 4. Bibliografia
 
