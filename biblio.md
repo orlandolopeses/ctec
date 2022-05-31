@@ -10,4 +10,6 @@
 
 5. INTRODUÇÃO a NLTK com Dom Casmurro: uma análise de uma das obras mais renomadas de Machado de Assis utilizando uma das principais biblioteca de NLP. Medium, 2020. Disponível em: <https://medium.com/turing-talks/uma-an%C3%A1lise-de-dom-casmurro-com-nltk-343d72dd47a7>. Acesso em: 29 mai 2022.
 
+6. UM Guia para Iniciantes em Programação Orientada a Objetos (POO) Python. Kinsta, 2021. Disponível em: <https://kinsta.com/pt/blog/programacao-orientada-objetos-python/>. Acesso em: 31 mai 2022.
+
 Voltar para a [página principal](https://github.com/fppissarra/ctec).
