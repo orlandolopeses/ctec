@@ -12,4 +12,6 @@
 
 6. UM Guia para Iniciantes em Programação Orientada a Objetos (POO) Python. Kinsta, 2021. Disponível em: <https://kinsta.com/pt/blog/programacao-orientada-objetos-python/>. Acesso em: 31 mai 2022.
 
+7. 42 Exciting Python Project Ideas & Topics for Beginners 2022. upGrad, 2021. Disponível em: <https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/>. Acesso em: 31 mai 2022.
+
 Voltar para a [página principal](https://github.com/fppissarra/ctec).
