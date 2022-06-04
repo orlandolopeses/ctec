@@ -1,7 +1,7 @@
 # <code>ctec/cronograma</code>
 
 Diretrizes para o começo, meio e fim do Clube de Tecnologia - vulgo Cronograma do Projeto.
-O Clube terá 12h de atividades presenciais¹ programadas e contará com certificado de conclusão para os participantes que tiverem pelo menos 80% de aproveitamento do mini-curso.
+O Clube terá 14h de atividades presenciais¹ programadas e contará com certificado de conclusão para os participantes que tiverem pelo menos 80% de aproveitamento do mini-curso.
 
 ## Descrição de atividades
 
