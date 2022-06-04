@@ -7,8 +7,8 @@ O Clube terá 12h de atividades presenciais¹ programadas e contará com certifi
 
 | Data  |  C.H.  |  Atividade  |
 | :---: | :---: | :--- |
-|  10 jun 2022 |  -  |  Data limite para a inscrição² no grupo³ |
-|  13 jun 2022 |  2h  |  Introdução à lógica matemática, introdução à lógica de programação e tabela-verdade |
+|  10 jun 2022 |  -  |  -  |  Data limite para a inscrição² no grupo³ |
+|  13 jun 2022 |  15h - 16h |  2h  |  Introdução à lógica matemática, introdução à lógica de programação e tabela-verdade |
 |  20 jun 2022 |  2h  |  GitHub, Google Colab e introdução à sintaxe em programação |
 |  27 jun 2022 |  2h  |  Sintaxe em Python e resolução de exercícios |
 |  04 jul 2022 |  2h  |  Programação Orientada a Objetos (POO), Programação Orientada a Objetos em Python e resolução de exercícios |
