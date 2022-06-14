@@ -9,7 +9,7 @@ O Clube terá 7h de atividades presenciais¹ programadas e contará com certific
 | :---: | :---: | :---: | :--- |
 |  a confirmar |  -  |  -  |  Data limite para a inscrição² no grupo³ |
 |  21 jun |  16h – 18h |  2h  |  Introdução à lógica matemática, introdução à lógica de programação e tabela-verdade |
-|  28 jun |  16h – 18h |  2h  |  GitHub, Google Colab e introdução à sintaxe em programação |
+|  28 jun |  16h – 18h |  2h  |  Discord, GitHub, Google Colab e introdução à sintaxe em programação |
 |  05 jul |  16h – 18h |  2h  |  Sintaxe em Python e resolução de exercícios |
 |  12 jul |  16h – 18h |  2h  |  Programação Orientada a Objetos (POO), Programação Orientada a Objetos em Python e resolução de exercícios |
 |  19 jul |  16h – 18h |  2h  |  Desenvolvimento de um código de tradutor automático |
