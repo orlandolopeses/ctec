@@ -8,8 +8,8 @@ O Clube terá 7h de atividades presenciais¹ programadas e contará com certific
 | Datas 2022  |  Horário  |  C.H.  |  Atividade  |
 | :---: | :---: | :---: | :--- |
 |  a confirmar |  -  |  -  |  Data limite para a inscrição² no grupo³ |
-|  em breve |  16h – 18h |  2h  |  Introdução à lógica matemática, introdução à lógica de programação e tabela-verdade |
-|  em breve |  16h – 18h |  2h  |  Discord, GitHub, Google Colab e introdução à sintaxe em programação |
+|  em breve |  16h – 18h |  2h  |  Contextualização da linguagem Python |
+|  em breve |  16h – 18h |  2h  |  Introdução à sintaxe em programação, Discord, GitHub e Google Colab |
 |  em breve |  16h – 18h |  2h  |  Sintaxe em Python e resolução de exercícios |
 |  em breve |  16h – 18h |  2h  |  Programação Orientada a Objetos (POO), Programação Orientada a Objetos em Python e resolução de exercícios |
 |  em breve |  16h – 18h |  2h  |  Desenvolvimento de um código de tradutor automático |
