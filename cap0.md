@@ -8,12 +8,12 @@ O Clube terá 7h de atividades presenciais¹ programadas e contará com certific
 | Datas 2022  |  Horário  |  C.H.  |  Atividade  |
 | :---: | :---: | :---: | :--- |
 |  a confirmar |  -  |  -  |  Data limite para a inscrição² no grupo³ |
-|  em breve |  16h – 18h |  2h  |  Contextualização da linguagem Python |
+|  em breve |  16h – 18h |  2h  |  Contextualização da linguagem Python | Histórico e aplicabilidade
 |  em breve |  16h – 18h |  2h  |  Introdução à sintaxe em programação, Discord, GitHub e Google Colab |
 |  em breve |  16h – 18h |  2h  |  Sintaxe em Python e resolução de exercícios |
-|  em breve |  16h – 18h |  2h  |  Programação Orientada a Objetos (POO), Programação Orientada a Objetos em Python e resolução de exercícios |
-|  em breve |  16h – 18h |  2h  |  Desenvolvimento de um código de tradutor automático |
-|  em breve |  16h – 18h |  2h  |  Conteúdo extra: Natural Language Processing (NLP) e a introdução a NLTK com Dom Casmurro  |
+|  em breve |  16h – 18h |  2h  |  Convidad@1? Programação Orientada a Objetos (POO), Programação Orientada a Objetos em Python e resolução de exercícios |
+|  em breve |  16h – 18h |  2h  |  Convidad@2? Desenvolvimento de um código de tradutor automático |
+|  em breve |  16h – 18h |  2h  |  Convidad@3? Conteúdo extra: Natural Language Processing (NLP) e a introdução a NLTK com Dom Casmurro  |
 |  em breve |  16h – 18h |  2h  |  Entrega do mini-projeto e avaliação por parte da Organização do Clube |
 
 ###### (¹) No Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Ifes - localizado na Av. Vitória, 1729 - Jucutuquara, Vitória - ES, 29040-780. (²) A inscrição deverá ser feita por meio de um formulário eletrônico que se encontrará na [página do Instagram do ReLer&Fazer](https://www.instagram.com/relerefazeres), disponível até a data limite de inscrição estipulada pela Organização do Clube; ao se inscrever por meio do formulário, você precisa estar ciente e concordar com os termos para que esteja apto(a) a participar do grupo. (³) As vagas serão limitadas à capacidade do laboratório por sessão, sendo que estudantes de Letras têm prioridade. A lista de pré-requisitos para participar do grupo consta no formulário.
