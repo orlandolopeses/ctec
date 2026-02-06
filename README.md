@@ -29,3 +29,8 @@ Este mini-projeto faz parte de uma entrega do Programa ES+CRIATIVO em parceria c
 ## 5. Teste de Integração
 
 Esta é uma seção de teste para verificar a integração com o Claude AI no GitHub..
+
+Esta integração permite que o Claude AI:
+- Revise automaticamente o código em Pull Requests
+- Responda a perguntas sobre o código
+- Sugira melhorias e identifique possíveis bugs
