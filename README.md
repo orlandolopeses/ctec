@@ -24,4 +24,8 @@ Este mini-projeto faz parte de uma entrega do Programa ES+CRIATIVO em parceria c
 
 ## 4. Bibliografia
 
-> Acesse a página de [referências bibliográficas](https://github.com/fppissarra/ctec/blob/main/biblio.md).
+> Acesse a página de [referências bibliográficas](https://github.com/fppissarra/ctec/blob/main/biblio.md)
+
+## 5. Teste de Integração
+
+Esta é uma seção de teste para verificar a integração com o Claude AI no GitHub..
